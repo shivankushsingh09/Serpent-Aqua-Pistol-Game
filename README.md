@@ -31,8 +31,8 @@ To run the Serpent Aqua Pistol Game, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-        git clone https://github.com/your-username/serpent-aqua-pistol-game.git
-        cd serpent-aqua-pistol-game
+        git clone https://github.com/shivankushsingh09/Serpent-Aqua-Pistol-Game.git
+        cd Serpent-Aqua-Pistol-Game
    ```
 
 2. Compile the Source Code:
@@ -100,7 +100,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shivankushsingh09/Serpent-Aqua-Pistol-Game?tab=MIT-1-ov-file) file for more details.
 
 ## Contact
 
