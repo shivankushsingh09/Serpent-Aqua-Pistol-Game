@@ -69,7 +69,7 @@ After running the game, use the following controls to play:
 
 - Java: Core programming language used for development.
 - JavaFX: For creating the game's graphical user interface.
-- Maven/Gradle: For dependency management and build automation (if used).
+<!-- - Maven/Gradle: For dependency management and build automation (if used). -->
 
 ## Contributing
 
